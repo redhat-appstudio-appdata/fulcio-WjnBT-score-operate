@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtas-tenant/fulcio/fulcio-server@sha256:23c064db2ba094056f3b173bf8789d49fc06d52e566bbff0bc75f2ae5e2559bd
+      - image: quay.io/redhat-user-workloads/rhtas-tenant/fulcio/fulcio-server@sha256:f681ddfdb833bba18f2a2249a80260c9049f523b258bf3924a27796e4716f863
         name: container-image
         resources: {}
 status: {}
