@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: fulcio-server
     app.kubernetes.io/part-of: fulcio
-  name: fulcio-servermo6e
+  name: fulcio-serversjyk
 spec:
   port:
     targetPort: 8080
